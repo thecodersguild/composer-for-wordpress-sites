@@ -1,1 +1,1 @@
-# composer-for-wordpress-sites
+# Using Composer to Build and Maintain Dependencies for WordPress Sites
